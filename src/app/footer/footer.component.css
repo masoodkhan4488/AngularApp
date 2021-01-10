@@ -1,0 +1,12 @@
+.end-note {
+    width: 100%;
+    background-color: #e8491d;
+    text-align: center;
+    height: 105px;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-top: 2px solid yellow;
+    border-bottom: 2px solid yellow;
+    color: #fff;
+    padding-top: 40px ;
+}
